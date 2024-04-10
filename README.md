@@ -3,15 +3,15 @@
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of of AI coding tools (assistants, completion, refactoring, etc.).
-
+Open source project are marked as such :unlock: .
 [Open a pull request](https://github.com/sourcegraph/awesome-code-ai/pulls) to add or edit this list.
 
 ## AI code completion tools
 
-- [GitHub Copilot](https://github.com/features/copilot) proprietary
-- [CodiumAI](https://www.codium.ai/) proprietary
-- [Codeium](https://www.codeium.com/) proprietary
-- [Tabnine](https://www.tabnine.com/) proprietary
+- [GitHub Copilot](https://github.com/features/copilot)
+- [CodiumAI](https://www.codium.ai/)
+- [Codeium](https://www.codeium.com/)
+- [Tabnine](https://www.tabnine.com/)
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter)
 - [Refact.ai](https://refact.ai/)
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot)
@@ -20,7 +20,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 - [GitLab Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html)
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
-- [Obsidian copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion)
+- [Obsidian copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion) :unlock:
 
 ## Code completion LLMs
 
@@ -37,7 +37,7 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [Phind](https://www.phind.com/)
 - [Safurai](https://www.safurai.com/)
 - [CensusGPT](https://censusgpt.com/)
-- [Autodoc](https://github.com/context-labs/autodoc)
+- [Autodoc](https://github.com/context-labs/autodoc) :unlock:
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody)
 - [ZZZ Code AI](https://zzzcode.ai/)
 - [StackSpot AI](https://ai.stackspot.com/)
@@ -45,13 +45,13 @@ A list of of AI coding tools (assistants, completion, refactoring, etc.).
 - [16x Prompt](https://prompt.16x.engineer/)
 
 ## ChatGPT in your editor
-- [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)
-- [org-ai](https://github.com/rksm/org-ai)
-- [Genie AI - ChatGPT - VS Code](https://github.com/ai-genie/chatgpt-vscode)
+- [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) :unlock:
+- [org-ai](https://github.com/rksm/org-ai) :unlock:
+- [Genie AI - ChatGPT - VS Code](https://github.com/ai-genie/chatgpt-vscode) :unlock:
 
 ## LLM-powered natural language compilers 
 
-- [Parsel 🐍](https://github.com/ezelikman/parsel)
+- [Parsel 🐍](https://github.com/ezelikman/parsel) :unlock:
 
 ## TODOs
 
